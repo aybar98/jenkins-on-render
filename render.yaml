@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: jenkins
-    env: docker
-    plan: free
-    region: oregon
-    healthCheckPath: /
